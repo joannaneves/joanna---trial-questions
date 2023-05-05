@@ -1,0 +1,34 @@
+{
+  "Lua.diagnostics.globals": [
+    "onLogout",
+    "addEvent",
+    "printSmallGuildNames",
+    "db",
+    "removePlayerFromParty",
+    "Player",
+    "std",
+    "const",
+    "void",
+    "player",
+    "isOffline",
+    "getInbox",
+    "INDEX_WHEREEVER",
+    "FLAG_NOLIMIT",
+    "item",
+    "g_game",
+    "IOLoginData",
+    "delete",
+    "itemId",
+    "Item",
+    "return",
+    "recipient",
+    "nullptr",
+    "new",
+    "Game",
+    "uint16_t",
+    "if"
+  ],
+  "Lua.diagnostics.disable": [
+    "unused-label"
+  ]
+}

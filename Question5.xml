@@ -1,0 +1,3 @@
+
+<instant group="attack" spellid="118" name="Iced Tornado" words="frigo" lvl="60" mana="1050" prem="1" selftarget="1" exhaustion="500" groupcooldown="1000" needlearn="0" script="attack/eternal winter.lua">
+<vocation name="Druid"/>
