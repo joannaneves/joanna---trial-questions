@@ -43,3 +43,10 @@ end
 spell = {
     { type_ = "instant", name = "Iced Tornado", words = "frigo", level = 60, mana = 1200, vocs = { 3, 7 } },
 }
+--[[This code creates two Combat objects, combat1 and combat2. It sets parameters for each of the objects, such as type, effect, and formula.
+It then creates two areas, area1 and area2, which are used to define the shape of the combat. Finally, it creates a spell called "Iced Tornado"
+with certain properties.
+Iced Tornado is an instant spell introduced in level 60, with a mana cost of 1200. It is available to vocations 3 and 7, and when cast,
+it deals an area of effect icedamage. It has also an effect of 204 and another effect of 137.
+]]
+--
